@@ -1,4 +1,4 @@
-Laboratório Copilot e OpenAI: Filtros e Criação Assistida
+**Laboratório Copilot e OpenAI: Filtros e Criação Assistida**
 🎯 Objetivo do Lab
 Explorar funcionalidades do Copilot e ferramentas OpenAI, focando em filtros de conteúdo e recursos de criação assistida por IA, documentando exemplos práticos e aprendizados.
 🤖 Microsoft Copilot
